@@ -32,7 +32,7 @@ jobs:
             git checkout
             
             rm -f out/.gitkeep
-            mv out/* ../res
+            mv out/* ../rel
             cd ..
             rm -rf go
 
