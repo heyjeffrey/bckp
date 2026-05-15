@@ -129,58 +129,6 @@
             "http://mytvstream.net:8080/live/88623297/04243674/2210.m3u8"
         ],
         [
-            "FanDuel.Sports.Network.Detroit.24/7.HDTV.us",
-            "http://mytvstream.net:8080/live/88623297/04243674/20930.m3u8"
-        ],
-        [
-            "FanDuel.Sports.Network.Florida.HDTV.(Out.of.Market).us",
-            "http://mytvstream.net:8080/live/88623297/04243674/46794.m3u8"
-        ],
-        [
-            "FanDuel.Sports.Network.Midwest.24/7.HDTV.us",
-            "http://mytvstream.net:8080/live/88623297/04243674/66795.m3u8"
-        ],
-        [
-            "FanDuel.Sports.Network.North.HDTV.us",
-            "http://mytvstream.net:8080/live/88623297/04243674/58827.m3u8"
-        ],
-        [
-            "FanDuel.Sports.Network.Ohio.(Cleveland).HDTV.us",
-            "http://mytvstream.net:8080/live/88623297/04243674/17752.m3u8"
-        ],
-        [
-            "FanDuel.Sports.Network.Oklahoma.24/7.HDTV.(Tulsa).us",
-            "http://mytvstream.net:8080/live/88623297/04243674/20934.m3u8"
-        ],
-        [
-            "FanDuel.Sports.Network.SoCal.HDTV.us",
-            "http://mytvstream.net:8080/live/88623297/04243674/221151.m3u8"
-        ],
-        [
-            "FanDuel.Sports.Network.Southeast.HDTV.(Mont./Birm./Dothan/Mobile.AL).us",
-            "http://mytvstream.net:8080/live/88623297/04243674/2213.m3u8"
-        ],
-        [
-            "FanDuel.Sports.Network.Southwest.HDTV.24/7.(Main).us",
-            "http://mytvstream.net:8080/live/88623297/04243674/21843.m3u8"
-        ],
-        [
-            "FanDuel.Sports.Network.Sun.South.24/7.HDTV.(South.Marlins,.Rays,.Heat).us",
-            "http://mytvstream.net:8080/live/88623297/04243674/104917.m3u8"
-        ],
-        [
-            "FanDuel.Sports.Network.West.HDTV.us",
-            "http://mytvstream.net:8080/live/88623297/04243674/20932.m3u8"
-        ],
-        [
-            "FanDuel.Sports.Network.Wisconsin.24/7.HDTV.us",
-            "http://mytvstream.net:8080/live/88623297/04243674/78599.m3u8"
-        ],
-        [
-            "FIFAPlus.uk",
-            "https://jmp2.uk/stvp-IN270000230"
-        ],
-        [
             "FoodNetworkEast.us",
             "http://23.237.104.106:8080/USA_FOOD_NETWORK/index.m3u8"
         ],
@@ -1427,10 +1375,6 @@
         [
             "beINSportsUSA.us",
             "http://23.237.104.106:8080/USA_BEIN/index.m3u8"
-        ],
-        [
-            "HallmarkChannel.us",
-            "http://23.237.104.106:8080/USA_HALLMARK/index.m3u8"
         ],
         [
             "ABCNewsLive.us",
