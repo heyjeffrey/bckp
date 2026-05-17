@@ -2,803 +2,643 @@
     "lt": [
         [
             "AEEast.us",
-            "http://23.239.31.26:8989/aande/index.m3u8",
-            {}
+            "http://23.239.31.26:8989/aande/index.m3u8"
         ],
         [
             "WABCTV71.us",
-            "http://stream.cammonitorplus.net/1809/index.m3u8",
-            {}
+            "http://stream.cammonitorplus.net/1809/index.m3u8"
         ],
         [
             "ACCNetwork.us",
-            "http://23.237.104.106:8080/USA_ACCN/mpegts",
-            {}
+            "http://23.237.104.106:8080/USA_ACCN/mpegts"
         ],
         [
             "AdultSwimEast.us",
-            "https://turnerlive.warnermediacdn.com/hls/live/2023183/aseast/noslate/VIDEO_1_5128000.m3u8",
-            {}
+            "https://turnerlive.warnermediacdn.com/hls/live/2023183/aseast/noslate/VIDEO_1_5128000.m3u8"
         ],
         [
             "AltitudeSports.us",
-            "http://realsport.scalecdn.co:8080/live/supersonicstreams/cUewZolveU8Jh18jk34BDJ/332892.ts",
-            {}
+            "http://realsport.scalecdn.co:8080/live/supersonicstreams/cUewZolveU8Jh18jk34BDJ/332892.ts"
         ],
         [
             "AMCEast.us",
-            "http://23.239.31.26:8989/amc/index.m3u8",
-            {}
+            "http://23.239.31.26:8989/amc/index.m3u8"
         ],
         [
             "AnimalPlanetEast.us",
-            "http://23.237.104.106:8080/USA_ANIMAL_PLANET/index.m3u8",
-            {}
+            "http://23.237.104.106:8080/USA_ANIMAL_PLANET/index.m3u8"
         ],
         [
             "AntennaTV.us",
-            "http://realsport.scalecdn.co:8080/live/supersonicstreams/cUewZolveU8Jh18jk34BDJ/544767.ts",
-            {}
+            "http://realsport.scalecdn.co:8080/live/supersonicstreams/cUewZolveU8Jh18jk34BDJ/544767.ts"
         ],
         [
             "Aspire.us",
-            "http://realsport.scalecdn.co:8080/live/supersonicstreams/cUewZolveU8Jh18jk34BDJ/21630.ts",
-            {}
+            "http://realsport.scalecdn.co:8080/live/supersonicstreams/cUewZolveU8Jh18jk34BDJ/21630.ts"
         ],
         [
             "AXSTV.us",
-            "http://23.239.31.26:8989/axstv/index.m3u8",
-            {}
+            "http://23.239.31.26:8989/axstv/index.m3u8"
         ],
         [
             "BBCAmericaEast.us",
-            "https://bcovlive-a.akamaihd.net/7f5ec16d102f4b5d92e8e27bc95ff424/us-east-1/6240731308001/playlist.m3u8",
-            {}
+            "https://bcovlive-a.akamaihd.net/7f5ec16d102f4b5d92e8e27bc95ff424/us-east-1/6240731308001/playlist.m3u8"
         ],
         [
             "BBCNewsAmerica.us",
-            "https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8",
-            {}
+            "https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8"
         ],
         [
             "BETEast.us",
-            "http://41.205.93.154/BET-EN/index.m3u8",
-            {}
+            "http://41.205.93.154/BET-EN/index.m3u8"
         ],
         [
             "BigTenNetwork.us",
-            "http://23.237.104.106:8080/USA_BTN/index.m3u8",
-            {}
+            "http://23.237.104.106:8080/USA_BTN/index.m3u8"
         ],
         [
             "BloombergTV.us",
-            "https://live-manifest.production-public.tubi.io/live/a5aabf5a-9615-4987-8163-18edfa1360c6/playlist.m3u8",
-            {}
+            "https://live-manifest.production-public.tubi.io/live/a5aabf5a-9615-4987-8163-18edfa1360c6/playlist.m3u8"
         ],
         [
             "Boomerang.us",
-            "http://23.237.104.106:8080/USA_BOOMERANG/index.m3u8",
-            {}
+            "http://23.237.104.106:8080/USA_BOOMERANG/index.m3u8"
         ],
         [
             "Bounce.us",
-            "http://23.237.104.106:8080/USA_BOUNCE/index.m3u8",
-            {}
+            "http://23.237.104.106:8080/USA_BOUNCE/index.m3u8"
         ],
         [
             "BravoEast.us",
-            "http://41.205.93.154/BRAVO/index.m3u8",
-            {}
+            "http://41.205.93.154/BRAVO/index.m3u8"
         ],
         [
             "Buzzr.us",
-            "https://buzzrota-web.amagi.tv/playlist.m3u8",
-            {}
+            "https://buzzrota-web.amagi.tv/playlist.m3u8"
         ],
         [
             "CSPAN.us",
-            "http://realsport.scalecdn.co:8080/live/supersonicstreams/cUewZolveU8Jh18jk34BDJ/92792.ts",
-            {}
+            "http://realsport.scalecdn.co:8080/live/supersonicstreams/cUewZolveU8Jh18jk34BDJ/92792.ts"
         ],
         [
             "CartoonNetworkEast.us",
-            "http://23.237.104.106:8080/USA_CARTOON_NETWORK/index.m3u8",
-            {}
+            "http://23.237.104.106:8080/USA_CARTOON_NETWORK/index.m3u8"
         ],
         [
             "WCBSDT1.us",
-            "http://stream.cammonitorplus.net/1810/index.m3u8",
-            {}
+            "http://stream.cammonitorplus.net/1810/index.m3u8"
         ],
         [
             "CBSNews.us",
-            "https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8",
-            {}
+            "https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8"
         ],
         [
             "CBSSportsGolazoNetwork.us",
-            "https://dai.google.com/linear/hls/event/GxrCGmwST0ixsrc_QgB6qw/master.m3u8",
-            {}
+            "https://dai.google.com/linear/hls/event/GxrCGmwST0ixsrc_QgB6qw/master.m3u8"
         ],
         [
             "CBSSportsNetworkUSA.us",
-            "http://realsport.scalecdn.co:8080/live/supersonicstreams/cUewZolveU8Jh18jk34BDJ/3712.ts",
-            {}
+            "http://realsport.scalecdn.co:8080/live/supersonicstreams/cUewZolveU8Jh18jk34BDJ/3712.ts"
         ],
         [
             "CinemaxEast.us",
-            "http://23.237.104.106:8080/USA_CINEMAX/index.m3u8",
-            {}
+            "http://23.237.104.106:8080/USA_CINEMAX/index.m3u8"
         ],
         [
             "CleoTV.us",
-            "http://realsport.scalecdn.co:8080/live/supersonicstreams/cUewZolveU8Jh18jk34BDJ/573316.ts",
-            {}
+            "http://realsport.scalecdn.co:8080/live/supersonicstreams/cUewZolveU8Jh18jk34BDJ/573316.ts"
         ],
         [
             "CMTEast.us",
-            "http://23.237.104.106:8080/USA_CMT/index.m3u8",
-            {}
+            "http://23.237.104.106:8080/USA_CMT/index.m3u8"
         ],
         [
             "CNBC.us",
-            "http://realsport.scalecdn.co:8080/live/supersonicstreams/cUewZolveU8Jh18jk34BDJ/2610.ts",
-            {}
+            "http://realsport.scalecdn.co:8080/live/supersonicstreams/cUewZolveU8Jh18jk34BDJ/2610.ts"
         ],
         [
             "CNN.us",
-            "https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8",
-            {}
+            "https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8"
         ],
         [
             "ComedyCentralEast.us",
-            "http://23.237.104.106:8080/USA_COMEDY_CENTRAL/index.m3u8",
-            {}
+            "http://23.237.104.106:8080/USA_COMEDY_CENTRAL/index.m3u8"
         ],
         [
             "ComedyTV.us",
-            "http://realsport.scalecdn.co:8080/live/supersonicstreams/cUewZolveU8Jh18jk34BDJ/77411.ts",
-            {}
+            "http://realsport.scalecdn.co:8080/live/supersonicstreams/cUewZolveU8Jh18jk34BDJ/77411.ts"
         ],
         [
             "Comet.us",
-            "https://fast-channels.sinclairstoryline.com/COMET/index.m3u8",
-            {}
+            "https://fast-channels.sinclairstoryline.com/COMET/index.m3u8"
         ],
         [
             "CookingChannel.us",
-            "http://23.237.104.106:8080/USA_COOKING/index.m3u8",
-            {}
+            "http://23.237.104.106:8080/USA_COOKING/index.m3u8"
         ],
         [
             "CourtTV.us",
-            "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01438-ewscrippscompan-courttv-tablo/playlist.m3u8",
-            {}
+            "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01438-ewscrippscompan-courttv-tablo/playlist.m3u8"
         ],
         [
             "CoziTV.us",
-            "http://realsport.scalecdn.co:8080/live/supersonicstreams/cUewZolveU8Jh18jk34BDJ/2604.ts",
-            {}
+            "http://realsport.scalecdn.co:8080/live/supersonicstreams/cUewZolveU8Jh18jk34BDJ/2604.ts"
         ],
         [
             "CrimePlusInvestigation.us",
-            "http://23.237.104.106:8080/USA_CRIME_INVESTIGATION/mpegts",
-            {}
+            "http://23.237.104.106:8080/USA_CRIME_INVESTIGATION/mpegts"
         ],
         [
             "WPIX71.us",
-            "http://realsport.scalecdn.co:8080/live/supersonicstreams/cUewZolveU8Jh18jk34BDJ/93093.ts",
-            {}
+            "http://realsport.scalecdn.co:8080/live/supersonicstreams/cUewZolveU8Jh18jk34BDJ/93093.ts"
         ],
         [
             "DiscoveryChannelEast.us",
-            "http://23.237.104.106:8080/USA_DISCOVERY/index.m3u8",
-            {}
+            "http://23.237.104.106:8080/USA_DISCOVERY/index.m3u8"
         ],
         [
             "DiscoveryFamily.us",
-            "http://realsport.scalecdn.co:8080/live/supersonicstreams/cUewZolveU8Jh18jk34BDJ/2598.ts",
-            {}
+            "http://realsport.scalecdn.co:8080/live/supersonicstreams/cUewZolveU8Jh18jk34BDJ/2598.ts"
         ],
         [
             "DiscoveryLife.us",
-            "http://realsport.scalecdn.co:8080/live/supersonicstreams/cUewZolveU8Jh18jk34BDJ/2597.ts",
-            {}
+            "http://realsport.scalecdn.co:8080/live/supersonicstreams/cUewZolveU8Jh18jk34BDJ/2597.ts"
         ],
         [
             "Science.us",
-            "http://realsport.scalecdn.co:8080/live/supersonicstreams/cUewZolveU8Jh18jk34BDJ/2595.ts",
-            {}
+            "http://realsport.scalecdn.co:8080/live/supersonicstreams/cUewZolveU8Jh18jk34BDJ/2595.ts"
         ],
         [
             "DisneyChannel.us",
-            "http://realsport.scalecdn.co:8080/live/supersonicstreams/cUewZolveU8Jh18jk34BDJ/2591.ts",
-            {}
+            "http://realsport.scalecdn.co:8080/live/supersonicstreams/cUewZolveU8Jh18jk34BDJ/2591.ts"
         ],
         [
             "DisneyXDEast.us",
-            "http://23.237.104.106:8080/USA_DISNEY_XD/index.m3u8",
-            {}
+            "http://23.237.104.106:8080/USA_DISNEY_XD/index.m3u8"
         ],
         [
             "EEast.us",
-            "http://23.237.104.106:8080/USA_E/index.m3u8",
-            {}
+            "http://23.237.104.106:8080/USA_E/index.m3u8"
         ],
         [
             "ESPN.us",
-            "http://41.205.93.154/ESPN/index.m3u8",
-            {}
+            "http://41.205.93.154/ESPN/index.m3u8"
         ],
         [
             "ESPNews.us",
-            "http://realsport.scalecdn.co:8080/live/supersonicstreams/cUewZolveU8Jh18jk34BDJ/2577.ts",
-            {}
+            "http://realsport.scalecdn.co:8080/live/supersonicstreams/cUewZolveU8Jh18jk34BDJ/2577.ts"
         ],
         [
             "ESPNU.us",
-            "http://23.237.104.106:8080/USA_ESPNU/index.m3u8",
-            {}
+            "http://23.237.104.106:8080/USA_ESPNU/index.m3u8"
         ],
         [
             "ESPN2.us",
-            "http://41.223.30.230/ESPN2/index.m3u8",
-            {}
+            "http://41.223.30.230/ESPN2/index.m3u8"
         ],
         [
             "FanDuelSportsNetworkDetroit.us",
-            "http://realsport.scalecdn.co:8080/live/supersonicstreams/cUewZolveU8Jh18jk34BDJ/2528.ts",
-            {}
+            "http://realsport.scalecdn.co:8080/live/supersonicstreams/cUewZolveU8Jh18jk34BDJ/2528.ts"
         ],
         [
             "FanDuelSportsNetworkFloridaPlus.us",
-            "http://realsport.scalecdn.co:8080/live/supersonicstreams/cUewZolveU8Jh18jk34BDJ/663186.ts",
-            {}
+            "http://realsport.scalecdn.co:8080/live/supersonicstreams/cUewZolveU8Jh18jk34BDJ/663186.ts"
         ],
         [
             "FanDuelSportsNetworkMidwestStLouis.us",
-            "http://realsport.scalecdn.co:8080/live/supersonicstreams/cUewZolveU8Jh18jk34BDJ/3784.ts",
-            {}
+            "http://realsport.scalecdn.co:8080/live/supersonicstreams/cUewZolveU8Jh18jk34BDJ/3784.ts"
         ],
         [
             "FanDuelSportsNetworkNorth.us",
-            "http://realsport.scalecdn.co:8080/live/supersonicstreams/cUewZolveU8Jh18jk34BDJ/2519.ts",
-            {}
+            "http://realsport.scalecdn.co:8080/live/supersonicstreams/cUewZolveU8Jh18jk34BDJ/2519.ts"
         ],
         [
             "FanDuelSportsNetworkOhioCleveland.us",
-            "http://realsport.scalecdn.co:8080/live/supersonicstreams/cUewZolveU8Jh18jk34BDJ/663237.ts",
-            {}
+            "http://realsport.scalecdn.co:8080/live/supersonicstreams/cUewZolveU8Jh18jk34BDJ/663237.ts"
         ],
         [
             "FanDuelSportsNetworkOklahoma.us",
-            "http://realsport.scalecdn.co:8080/live/supersonicstreams/cUewZolveU8Jh18jk34BDJ/2516.ts",
-            {}
+            "http://realsport.scalecdn.co:8080/live/supersonicstreams/cUewZolveU8Jh18jk34BDJ/2516.ts"
         ],
         [
             "FanDuelSportsNetworkSoCal.us",
-            "http://realsport.scalecdn.co:8080/live/supersonicstreams/cUewZolveU8Jh18jk34BDJ/663253.ts",
-            {}
+            "http://realsport.scalecdn.co:8080/live/supersonicstreams/cUewZolveU8Jh18jk34BDJ/663253.ts"
         ],
         [
             "FanDuelSportsNetworkSouth.us",
-            "http://realsport.scalecdn.co:8080/live/supersonicstreams/cUewZolveU8Jh18jk34BDJ/2513.ts",
-            {}
+            "http://realsport.scalecdn.co:8080/live/supersonicstreams/cUewZolveU8Jh18jk34BDJ/2513.ts"
         ],
         [
             "FanDuelSportsNetworkSoutheast.us",
-            "http://realsport.scalecdn.co:8080/live/supersonicstreams/cUewZolveU8Jh18jk34BDJ/663159.ts",
-            {}
+            "http://realsport.scalecdn.co:8080/live/supersonicstreams/cUewZolveU8Jh18jk34BDJ/663159.ts"
         ],
         [
             "FanDuelSportsNetworkSouthwest.us",
-            "http://realsport.scalecdn.co:8080/live/supersonicstreams/cUewZolveU8Jh18jk34BDJ/663270.ts",
-            {}
+            "http://realsport.scalecdn.co:8080/live/supersonicstreams/cUewZolveU8Jh18jk34BDJ/663270.ts"
         ],
         [
             "FanDuelSportsNetworkSun.us",
-            "http://realsport.scalecdn.co:8080/live/supersonicstreams/cUewZolveU8Jh18jk34BDJ/663153.ts",
-            {}
+            "http://realsport.scalecdn.co:8080/live/supersonicstreams/cUewZolveU8Jh18jk34BDJ/663153.ts"
         ],
         [
             "FanDuelSportsNetworkWest.us",
-            "http://realsport.scalecdn.co:8080/live/supersonicstreams/cUewZolveU8Jh18jk34BDJ/663285.ts",
-            {}
+            "http://realsport.scalecdn.co:8080/live/supersonicstreams/cUewZolveU8Jh18jk34BDJ/663285.ts"
         ],
         [
             "FanDuelSportsNetworkWisconsin.us",
-            "http://realsport.scalecdn.co:8080/live/supersonicstreams/cUewZolveU8Jh18jk34BDJ/3787.ts",
-            {}
+            "http://realsport.scalecdn.co:8080/live/supersonicstreams/cUewZolveU8Jh18jk34BDJ/3787.ts"
         ],
         [
             "FIFAPlus.uk",
-            "https://jmp2.uk/stvp-IN270000230",
-            {}
+            "https://jmp2.uk/stvp-IN270000230"
         ],
         [
             "FoodNetworkEast.us",
-            "http://23.237.104.106:8080/USA_FOOD_NETWORK/index.m3u8",
-            {}
+            "http://23.237.104.106:8080/USA_FOOD_NETWORK/index.m3u8"
         ],
         [
             "WFLD501.us",
-            "http://stream.cammonitorplus.net/1752/index.m3u8",
-            {}
+            "http://stream.cammonitorplus.net/1752/index.m3u8"
         ],
         [
             "FoxBusinessNetwork.us",
-            "http://41.205.93.154/FOXBUSINESS/index.m3u8",
-            {}
+            "http://41.205.93.154/FOXBUSINESS/index.m3u8"
         ],
         [
             "FoxNewsChannel.us",
-            "http://realsport.scalecdn.co:8080/live/supersonicstreams/cUewZolveU8Jh18jk34BDJ/2543.ts",
-            {}
+            "http://realsport.scalecdn.co:8080/live/supersonicstreams/cUewZolveU8Jh18jk34BDJ/2543.ts"
         ],
         [
             "FoxSports1.us",
-            "http://realsport.scalecdn.co:8080/live/supersonicstreams/cUewZolveU8Jh18jk34BDJ/2501.ts",
-            {}
+            "http://realsport.scalecdn.co:8080/live/supersonicstreams/cUewZolveU8Jh18jk34BDJ/2501.ts"
         ],
         [
             "FoxSports2.us",
-            "http://realsport.scalecdn.co:8080/live/supersonicstreams/cUewZolveU8Jh18jk34BDJ/2500.ts",
-            {}
+            "http://realsport.scalecdn.co:8080/live/supersonicstreams/cUewZolveU8Jh18jk34BDJ/2500.ts"
         ],
         [
             "FreeformEast.us",
-            "http://realsport.scalecdn.co:8080/live/supersonicstreams/cUewZolveU8Jh18jk34BDJ/2502.ts",
-            {}
+            "http://realsport.scalecdn.co:8080/live/supersonicstreams/cUewZolveU8Jh18jk34BDJ/2502.ts"
         ],
         [
             "FuseEast.us",
-            "http://23.237.104.106:8080/USA_FUSE/index.m3u8",
-            {}
+            "http://23.237.104.106:8080/USA_FUSE/index.m3u8"
         ],
         [
             "FXEast.us",
-            "http://23.237.104.106:8080/USA_FX/index.m3u8",
-            {}
+            "http://23.237.104.106:8080/USA_FX/index.m3u8"
         ],
         [
             "FXMovieChannel.us",
-            "http://realsport.scalecdn.co:8080/live/supersonicstreams/cUewZolveU8Jh18jk34BDJ/2497.ts",
-            {}
+            "http://realsport.scalecdn.co:8080/live/supersonicstreams/cUewZolveU8Jh18jk34BDJ/2497.ts"
         ],
         [
             "FXXEast.us",
-            "http://23.237.104.106:8080/USA_FXX/index.m3u8",
-            {}
+            "http://23.237.104.106:8080/USA_FXX/index.m3u8"
         ],
         [
             "FYIEast.us",
-            "http://realsport.scalecdn.co:8080/live/supersonicstreams/cUewZolveU8Jh18jk34BDJ/30924.ts",
-            {}
+            "http://realsport.scalecdn.co:8080/live/supersonicstreams/cUewZolveU8Jh18jk34BDJ/30924.ts"
         ],
         [
             "GameShowNetworkEast.us",
-            "http://realsport.scalecdn.co:8080/live/supersonicstreams/cUewZolveU8Jh18jk34BDJ/648975.ts",
-            {}
+            "http://realsport.scalecdn.co:8080/live/supersonicstreams/cUewZolveU8Jh18jk34BDJ/648975.ts"
         ],
         [
             "GetTV.us",
-            "http://realsport.scalecdn.co:8080/live/supersonicstreams/cUewZolveU8Jh18jk34BDJ/30928.ts",
-            {}
+            "http://realsport.scalecdn.co:8080/live/supersonicstreams/cUewZolveU8Jh18jk34BDJ/30928.ts"
         ],
         [
             "GolfChannel.us",
-            "http://realsport.scalecdn.co:8080/live/supersonicstreams/cUewZolveU8Jh18jk34BDJ/2385.ts",
-            {}
+            "http://realsport.scalecdn.co:8080/live/supersonicstreams/cUewZolveU8Jh18jk34BDJ/2385.ts"
         ],
         [
             "Grit.us",
-            "http://realsport.scalecdn.co:8080/live/supersonicstreams/cUewZolveU8Jh18jk34BDJ/40583.ts",
-            {}
+            "http://realsport.scalecdn.co:8080/live/supersonicstreams/cUewZolveU8Jh18jk34BDJ/40583.ts"
         ],
         [
             "HallmarkChannelEast.us",
-            "http://23.237.104.106:8080/USA_HALLMARK/index.m3u8",
-            {}
+            "http://23.237.104.106:8080/USA_HALLMARK/index.m3u8"
         ],
         [
             "HallmarkFamily.us",
-            "http://realsport.scalecdn.co:8080/live/supersonicstreams/cUewZolveU8Jh18jk34BDJ/660922.ts",
-            {}
+            "http://realsport.scalecdn.co:8080/live/supersonicstreams/cUewZolveU8Jh18jk34BDJ/660922.ts"
         ],
         [
             "HallmarkMoviesMysteriesEast.us",
-            "http://realsport.scalecdn.co:8080/live/supersonicstreams/cUewZolveU8Jh18jk34BDJ/2492.ts",
-            {}
+            "http://realsport.scalecdn.co:8080/live/supersonicstreams/cUewZolveU8Jh18jk34BDJ/2492.ts"
         ],
         [
             "HBOEast.us",
-            "http://23.237.104.106:8080/USA_HBO/index.m3u8",
-            {}
+            "http://23.237.104.106:8080/USA_HBO/index.m3u8"
         ],
         [
             "HBO2East.us",
-            "http://23.237.104.106:8080/USA_HBO2/index.m3u8",
-            {}
+            "http://23.237.104.106:8080/USA_HBO2/index.m3u8"
         ],
         [
             "HBOComedyEast.us",
-            "http://23.237.104.106:8080/USA_HBO_COMEDY/index.m3u8",
-            {}
+            "http://23.237.104.106:8080/USA_HBO_COMEDY/index.m3u8"
         ],
         [
             "HBOZoneEast.us",
-            "http://realsport.scalecdn.co:8080/live/supersonicstreams/cUewZolveU8Jh18jk34BDJ/648982.ts",
-            {}
+            "http://realsport.scalecdn.co:8080/live/supersonicstreams/cUewZolveU8Jh18jk34BDJ/648982.ts"
         ],
         [
             "HistoryEast.us",
-            "http://realsport.scalecdn.co:8080/live/supersonicstreams/cUewZolveU8Jh18jk34BDJ/645913.ts",
-            {}
+            "http://realsport.scalecdn.co:8080/live/supersonicstreams/cUewZolveU8Jh18jk34BDJ/645913.ts"
         ],
         [
             "HLN.us",
-            "http://23.237.104.106:8080/USA_HLN/index.m3u8",
-            {}
+            "http://23.237.104.106:8080/USA_HLN/index.m3u8"
         ],
         [
             "INSP.us",
-            "http://realsport.scalecdn.co:8080/live/supersonicstreams/cUewZolveU8Jh18jk34BDJ/74682.ts",
-            {}
+            "http://realsport.scalecdn.co:8080/live/supersonicstreams/cUewZolveU8Jh18jk34BDJ/74682.ts"
         ],
         [
             "InvestigationDiscoveryPanregional.us",
-            "http://realsport.scalecdn.co:8080/live/supersonicstreams/cUewZolveU8Jh18jk34BDJ/2266.ts",
-            {}
+            "http://realsport.scalecdn.co:8080/live/supersonicstreams/cUewZolveU8Jh18jk34BDJ/2266.ts"
         ],
         [
             "IONTVEast.us",
-            "http://realsport.scalecdn.co:8080/live/supersonicstreams/cUewZolveU8Jh18jk34BDJ/597281.ts",
-            {}
+            "http://realsport.scalecdn.co:8080/live/supersonicstreams/cUewZolveU8Jh18jk34BDJ/597281.ts"
         ],
         [
             "LifetimeEast.us",
-            "http://realsport.scalecdn.co:8080/live/supersonicstreams/cUewZolveU8Jh18jk34BDJ/645914.ts",
-            {}
+            "http://realsport.scalecdn.co:8080/live/supersonicstreams/cUewZolveU8Jh18jk34BDJ/645914.ts"
         ],
         [
             "LifetimeMoviesEast.us",
-            "http://23.237.104.106:8080/USA_LMN/index.m3u8",
-            {}
+            "http://23.237.104.106:8080/USA_LMN/index.m3u8"
         ],
         [
             "MarqueeSportsNetwork.us",
-            "http://realsport.scalecdn.co:8080/live/supersonicstreams/cUewZolveU8Jh18jk34BDJ/55178.ts",
-            {}
+            "http://realsport.scalecdn.co:8080/live/supersonicstreams/cUewZolveU8Jh18jk34BDJ/55178.ts"
         ],
         [
             "MLBNetwork.us",
-            "http://realsport.scalecdn.co:8080/live/supersonicstreams/cUewZolveU8Jh18jk34BDJ/3746.ts",
-            {}
+            "http://realsport.scalecdn.co:8080/live/supersonicstreams/cUewZolveU8Jh18jk34BDJ/3746.ts"
         ],
         [
             "Motortrend.us",
-            "http://realsport.scalecdn.co:8080/live/supersonicstreams/cUewZolveU8Jh18jk34BDJ/3747.ts",
-            {}
+            "http://realsport.scalecdn.co:8080/live/supersonicstreams/cUewZolveU8Jh18jk34BDJ/3747.ts"
         ],
         [
             "MSG.us",
-            "http://23.237.104.106:8080/USA_MSG/index.m3u8",
-            {}
+            "http://23.237.104.106:8080/USA_MSG/index.m3u8"
         ],
         [
             "MSNBC.us",
-            "http://41.205.93.154:80/MSNBC/index.m3u8",
-            {}
+            "http://41.205.93.154:80/MSNBC/index.m3u8"
         ],
         [
             "MTV.us",
-            "http://23.237.104.106:8080/USA_MTV/index.m3u8",
-            {}
+            "http://23.237.104.106:8080/USA_MTV/index.m3u8"
         ],
         [
             "NationalGeographicEast.us",
-            "http://realsport.scalecdn.co:8080/live/supersonicstreams/cUewZolveU8Jh18jk34BDJ/3750.ts",
-            {}
+            "http://realsport.scalecdn.co:8080/live/supersonicstreams/cUewZolveU8Jh18jk34BDJ/3750.ts"
         ],
         [
             "NBATV.us",
-            "http://23.237.104.106:8080/USA_NBA/tracks-v1a1/mono.m3u8",
-            {}
+            "http://23.237.104.106:8080/USA_NBA/tracks-v1a1/mono.m3u8"
         ],
         [
             "WNBCDT1.us",
-            "http://stream.cammonitorplus.net/1812/index.m3u8",
-            {}
+            "http://stream.cammonitorplus.net/1812/index.m3u8"
         ],
         [
             "NBCSportsBayArea.us",
-            "http://realsport.scalecdn.co:8080/live/supersonicstreams/cUewZolveU8Jh18jk34BDJ/2436.ts",
-            {}
+            "http://realsport.scalecdn.co:8080/live/supersonicstreams/cUewZolveU8Jh18jk34BDJ/2436.ts"
         ],
         [
             "NBCSportsBoston.us",
-            "http://realsport.scalecdn.co:8080/live/supersonicstreams/cUewZolveU8Jh18jk34BDJ/2435.ts",
-            {}
+            "http://realsport.scalecdn.co:8080/live/supersonicstreams/cUewZolveU8Jh18jk34BDJ/2435.ts"
         ],
         [
             "NBCSportsCalifornia.us",
-            "http://stream.cammonitorplus.net/1795/index.m3u8",
-            {}
+            "http://stream.cammonitorplus.net/1795/index.m3u8"
         ],
         [
             "NBCSportsNow.us",
-            "https://jmp2.uk/stvp-USBD420002446",
-            {}
+            "https://jmp2.uk/stvp-USBD420002446"
         ],
         [
             "NBCSportsPhiladelphia.us",
-            "http://realsport.scalecdn.co:8080/live/supersonicstreams/cUewZolveU8Jh18jk34BDJ/3769.ts",
-            {}
+            "http://realsport.scalecdn.co:8080/live/supersonicstreams/cUewZolveU8Jh18jk34BDJ/3769.ts"
         ],
         [
             "NESN.us",
-            "http://23.237.104.106:8080/USA_NESN/index.m3u8",
-            {}
+            "http://23.237.104.106:8080/USA_NESN/index.m3u8"
         ],
         [
             "NewsNationEast.us",
-            "http://realsport.scalecdn.co:8080/live/supersonicstreams/cUewZolveU8Jh18jk34BDJ/647784.ts",
-            {}
+            "http://realsport.scalecdn.co:8080/live/supersonicstreams/cUewZolveU8Jh18jk34BDJ/647784.ts"
         ],
         [
             "NFLNetwork.us",
-            "http://23.237.104.106:8080/USA_NFL_NETWORK/index.m3u8",
-            {}
+            "http://23.237.104.106:8080/USA_NFL_NETWORK/index.m3u8"
         ],
         [
             "NFLRedZone.us",
-            "http://realsport.scalecdn.co:8080/live/supersonicstreams/cUewZolveU8Jh18jk34BDJ/97491.ts",
-            {}
+            "http://realsport.scalecdn.co:8080/live/supersonicstreams/cUewZolveU8Jh18jk34BDJ/97491.ts"
         ],
         [
             "NHLNetwork.us",
-            "http://realsport.scalecdn.co:8080/live/supersonicstreams/cUewZolveU8Jh18jk34BDJ/3672.ts",
-            {}
+            "http://realsport.scalecdn.co:8080/live/supersonicstreams/cUewZolveU8Jh18jk34BDJ/3672.ts"
         ],
         [
             "NickJr.us",
-            "http://realsport.scalecdn.co:8080/live/supersonicstreams/cUewZolveU8Jh18jk34BDJ/74691.ts",
-            {}
+            "http://realsport.scalecdn.co:8080/live/supersonicstreams/cUewZolveU8Jh18jk34BDJ/74691.ts"
         ],
         [
             "NickelodeonEast.us",
-            "http://23.237.104.106:8080/USA_NICKELODEON/index.m3u8",
-            {}
+            "http://23.237.104.106:8080/USA_NICKELODEON/index.m3u8"
         ],
         [
             "NicktoonsEast.us",
-            "http://realsport.scalecdn.co:8080/live/supersonicstreams/cUewZolveU8Jh18jk34BDJ/97474.ts",
-            {}
+            "http://realsport.scalecdn.co:8080/live/supersonicstreams/cUewZolveU8Jh18jk34BDJ/97474.ts"
         ],
         [
             "OutdoorChannel.us",
-            "http://23.237.104.106:8080/USA_OUTDOOR/mpegts",
-            {}
+            "http://23.237.104.106:8080/USA_OUTDOOR/mpegts"
         ],
         [
             "Ovation.us",
-            "http://realsport.scalecdn.co:8080/live/supersonicstreams/cUewZolveU8Jh18jk34BDJ/31180.ts",
-            {}
+            "http://realsport.scalecdn.co:8080/live/supersonicstreams/cUewZolveU8Jh18jk34BDJ/31180.ts"
         ],
         [
             "OxygenEast.us",
-            "http://realsport.scalecdn.co:8080/live/supersonicstreams/cUewZolveU8Jh18jk34BDJ/3756.ts",
-            {}
+            "http://realsport.scalecdn.co:8080/live/supersonicstreams/cUewZolveU8Jh18jk34BDJ/3756.ts"
         ],
         [
             "ParamountNetworkEast.us",
-            "http://23.237.104.106:8080/USA_PARAMOUNT_NETWORK/index.m3u8",
-            {}
+            "http://23.237.104.106:8080/USA_PARAMOUNT_NETWORK/index.m3u8"
         ],
         [
             "PBSKids.us",
-            "https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8",
-            {}
+            "https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8"
         ],
         [
             "Pop.us",
-            "http://realsport.scalecdn.co:8080/live/supersonicstreams/cUewZolveU8Jh18jk34BDJ/3863.ts",
-            {}
+            "http://realsport.scalecdn.co:8080/live/supersonicstreams/cUewZolveU8Jh18jk34BDJ/3863.ts"
         ],
         [
             "ViaplaySports1HD.uk",
-            "http://realsport.scalecdn.co:8080/live/supersonicstreams/cUewZolveU8Jh18jk34BDJ/89089.ts",
-            {}
+            "http://realsport.scalecdn.co:8080/live/supersonicstreams/cUewZolveU8Jh18jk34BDJ/89089.ts"
         ],
         [
             "ViaplaySports2HD.uk",
-            "http://realsport.scalecdn.co:8080/live/supersonicstreams/cUewZolveU8Jh18jk34BDJ/89090.ts",
-            {}
+            "http://realsport.scalecdn.co:8080/live/supersonicstreams/cUewZolveU8Jh18jk34BDJ/89090.ts"
         ],
         [
             "Reelz.us",
-            "http://23.237.104.106:8080/USA_REELZ/index.m3u8",
-            {}
+            "http://23.237.104.106:8080/USA_REELZ/index.m3u8"
         ],
         [
             "SECNetwork.us",
-            "http://23.237.104.106:8080/USA_SEC_NETWORK/index.m3u8",
-            {}
+            "http://23.237.104.106:8080/USA_SEC_NETWORK/index.m3u8"
         ],
         [
             "ShowtimeEast.us",
-            "http://23.237.104.106:8080/USA_SHOWTIME/index.m3u8",
-            {}
+            "http://23.237.104.106:8080/USA_SHOWTIME/index.m3u8"
         ],
         [
             "ShowtimeExtremeEast.us",
-            "http://realsport.scalecdn.co:8080/live/supersonicstreams/cUewZolveU8Jh18jk34BDJ/648984.ts",
-            {}
+            "http://realsport.scalecdn.co:8080/live/supersonicstreams/cUewZolveU8Jh18jk34BDJ/648984.ts"
         ],
         [
             "SkySportsFootball.uk",
-            "http://realsport.scalecdn.co:8080/live/supersonicstreams/cUewZolveU8Jh18jk34BDJ/30822.ts",
-            {}
+            "http://realsport.scalecdn.co:8080/live/supersonicstreams/cUewZolveU8Jh18jk34BDJ/30822.ts"
         ],
         [
             "SkySportsNews.uk",
-            "http://realsport.scalecdn.co:8080/live/supersonicstreams/cUewZolveU8Jh18jk34BDJ/2183.ts",
-            {}
+            "http://realsport.scalecdn.co:8080/live/supersonicstreams/cUewZolveU8Jh18jk34BDJ/2183.ts"
         ],
         [
             "SmithsonianChannelEast.us",
-            "http://realsport.scalecdn.co:8080/live/supersonicstreams/cUewZolveU8Jh18jk34BDJ/3812.ts",
-            {}
+            "http://realsport.scalecdn.co:8080/live/supersonicstreams/cUewZolveU8Jh18jk34BDJ/3812.ts"
         ],
         [
             "SonyMovies.us",
-            "http://realsport.scalecdn.co:8080/live/supersonicstreams/cUewZolveU8Jh18jk34BDJ/2412.ts",
-            {}
+            "http://realsport.scalecdn.co:8080/live/supersonicstreams/cUewZolveU8Jh18jk34BDJ/2412.ts"
         ],
         [
             "space-city-home-network",
-            "http://realsport.scalecdn.co:8080/live/supersonicstreams/cUewZolveU8Jh18jk34BDJ/663927.ts",
-            {}
+            "http://realsport.scalecdn.co:8080/live/supersonicstreams/cUewZolveU8Jh18jk34BDJ/663927.ts"
         ],
         [
             "SpectrumSportsNetLA.us",
-            "http://realsport.scalecdn.co:8080/live/supersonicstreams/cUewZolveU8Jh18jk34BDJ/74683.ts",
-            {}
+            "http://realsport.scalecdn.co:8080/live/supersonicstreams/cUewZolveU8Jh18jk34BDJ/74683.ts"
         ],
         [
             "SpectrumSportsNet.us",
-            "http://realsport.scalecdn.co:8080/live/supersonicstreams/cUewZolveU8Jh18jk34BDJ/74684.ts",
-            {}
+            "http://realsport.scalecdn.co:8080/live/supersonicstreams/cUewZolveU8Jh18jk34BDJ/74684.ts"
         ],
         [
             "SportsmanChannel.us",
-            "http://realsport.scalecdn.co:8080/live/supersonicstreams/cUewZolveU8Jh18jk34BDJ/78636.ts",
-            {}
+            "http://realsport.scalecdn.co:8080/live/supersonicstreams/cUewZolveU8Jh18jk34BDJ/78636.ts"
         ],
         [
             "Sportsnet360.ca",
-            "http://realsport.scalecdn.co:8080/live/supersonicstreams/cUewZolveU8Jh18jk34BDJ/3073.ts",
-            {}
+            "http://realsport.scalecdn.co:8080/live/supersonicstreams/cUewZolveU8Jh18jk34BDJ/3073.ts"
         ],
         [
             "SportsnetEast.ca",
-            "http://realsport.scalecdn.co:8080/live/supersonicstreams/cUewZolveU8Jh18jk34BDJ/3072.ts",
-            {}
+            "http://realsport.scalecdn.co:8080/live/supersonicstreams/cUewZolveU8Jh18jk34BDJ/3072.ts"
         ],
         [
             "SportsNetNewYork.us",
-            "http://realsport.scalecdn.co:8080/live/supersonicstreams/cUewZolveU8Jh18jk34BDJ/3865.ts",
-            {}
+            "http://realsport.scalecdn.co:8080/live/supersonicstreams/cUewZolveU8Jh18jk34BDJ/3865.ts"
         ],
         [
             "SportsnetOne.ca",
-            "http://realsport.scalecdn.co:8080/live/supersonicstreams/cUewZolveU8Jh18jk34BDJ/3071.ts",
-            {}
+            "http://realsport.scalecdn.co:8080/live/supersonicstreams/cUewZolveU8Jh18jk34BDJ/3071.ts"
         ],
         [
             "ATTSportsNetPittsburgh.us",
-            "http://realsport.scalecdn.co:8080/live/supersonicstreams/cUewZolveU8Jh18jk34BDJ/149311.ts",
-            {}
+            "http://realsport.scalecdn.co:8080/live/supersonicstreams/cUewZolveU8Jh18jk34BDJ/149311.ts"
         ],
         [
             "StarzEast.us",
-            "http://23.237.104.106:8080/USA_STARZ/index.m3u8",
-            {}
+            "http://23.237.104.106:8080/USA_STARZ/index.m3u8"
         ],
         [
             "StarzEncoreClassic.us",
-            "http://realsport.scalecdn.co:8080/live/supersonicstreams/cUewZolveU8Jh18jk34BDJ/3953.ts",
-            {}
+            "http://realsport.scalecdn.co:8080/live/supersonicstreams/cUewZolveU8Jh18jk34BDJ/3953.ts"
         ],
         [
             "SyfyEast.us",
-            "http://23.237.104.106:8080/USA_SYFY/index.m3u8",
-            {}
+            "http://23.237.104.106:8080/USA_SYFY/index.m3u8"
         ],
         [
             "TBSEast.us",
-            "https://turnerlive.warnermediacdn.com/hls/live/2023172/tbseast/slate/VIDEO_0_3564000.m3u8",
-            {}
+            "https://turnerlive.warnermediacdn.com/hls/live/2023172/tbseast/slate/VIDEO_0_3564000.m3u8"
         ],
         [
             "TennisChannel.us",
-            "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01444-tennischannelth-tennischnlintl-lggb/playlist.m3u8",
-            {}
+            "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01444-tennischannelth-tennischnlintl-lggb/playlist.m3u8"
         ],
         [
             "TheWeatherChannel.us",
-            "http://realsport.scalecdn.co:8080/live/supersonicstreams/cUewZolveU8Jh18jk34BDJ/605741.ts",
-            {}
+            "http://realsport.scalecdn.co:8080/live/supersonicstreams/cUewZolveU8Jh18jk34BDJ/605741.ts"
         ],
         [
             "TLCEast.us",
-            "http://realsport.scalecdn.co:8080/live/supersonicstreams/cUewZolveU8Jh18jk34BDJ/2594.ts",
-            {}
+            "http://realsport.scalecdn.co:8080/live/supersonicstreams/cUewZolveU8Jh18jk34BDJ/2594.ts"
         ],
         [
             "TNTEast.us",
-            "https://turnerlive.warnermediacdn.com/hls/live/2023168/tnteast/slate/VIDEO_0_3564000.m3u8",
-            {}
+            "https://turnerlive.warnermediacdn.com/hls/live/2023168/tnteast/slate/VIDEO_0_3564000.m3u8"
         ],
         [
             "truTVEast.us",
-            "https://turnerlive.warnermediacdn.com/hls/live/2023176/trueast/slate/VIDEO_0_3564000.m3u8",
-            {}
+            "https://turnerlive.warnermediacdn.com/hls/live/2023176/trueast/slate/VIDEO_0_3564000.m3u8"
         ],
         [
             "TSN1.ca",
-            "http://realsport.scalecdn.co:8080/live/supersonicstreams/cUewZolveU8Jh18jk34BDJ/3146.ts",
-            {}
+            "http://realsport.scalecdn.co:8080/live/supersonicstreams/cUewZolveU8Jh18jk34BDJ/3146.ts"
         ],
         [
             "TSN2.ca",
-            "http://realsport.scalecdn.co:8080/live/supersonicstreams/cUewZolveU8Jh18jk34BDJ/3145.ts",
-            {}
+            "http://realsport.scalecdn.co:8080/live/supersonicstreams/cUewZolveU8Jh18jk34BDJ/3145.ts"
         ],
         [
             "TCMEast.us",
-            "https://turnerlive.warnermediacdn.com/hls/live/2023186/tcmeast/noslate/VIDEO_1_5128000.m3u8",
-            {}
+            "https://turnerlive.warnermediacdn.com/hls/live/2023186/tcmeast/noslate/VIDEO_1_5128000.m3u8"
         ],
         [
             "TVLandEast.us",
-            "http://realsport.scalecdn.co:8080/live/supersonicstreams/cUewZolveU8Jh18jk34BDJ/614330.ts",
-            {}
+            "http://realsport.scalecdn.co:8080/live/supersonicstreams/cUewZolveU8Jh18jk34BDJ/614330.ts"
         ],
         [
             "TVOne.us",
-            "http://realsport.scalecdn.co:8080/live/supersonicstreams/cUewZolveU8Jh18jk34BDJ/21897.ts",
-            {}
+            "http://realsport.scalecdn.co:8080/live/supersonicstreams/cUewZolveU8Jh18jk34BDJ/21897.ts"
         ],
         [
             "USANetworkEast.us",
-            "http://realsport.scalecdn.co:8080/live/supersonicstreams/cUewZolveU8Jh18jk34BDJ/3767.ts",
-            {}
+            "http://realsport.scalecdn.co:8080/live/supersonicstreams/cUewZolveU8Jh18jk34BDJ/3767.ts"
         ],
         [
             "VH1East.us",
-            "http://23.237.104.106:8080/USA_VH1/index.m3u8",
-            {}
+            "http://23.237.104.106:8080/USA_VH1/index.m3u8"
         ],
         [
             "VICETV.us",
-            "http://23.237.104.106:8080/USA_VICETV/index.m3u8",
-            {}
+            "http://23.237.104.106:8080/USA_VICETV/index.m3u8"
         ],
         [
             "WeTVEast.us",
-            "http://23.237.104.106:8080/USA_WE_TV/index.m3u8",
-            {}
+            "http://23.237.104.106:8080/USA_WE_TV/index.m3u8"
         ],
         [
             "Willow.us",
-            "http://realsport.scalecdn.co:8080/live/supersonicstreams/cUewZolveU8Jh18jk34BDJ/3972.ts",
-            {}
+            "http://realsport.scalecdn.co:8080/live/supersonicstreams/cUewZolveU8Jh18jk34BDJ/3972.ts"
         ],
         [
             "YesNetwork.us",
-            "http://23.237.104.106:8080/USA_YES_NETWORK/index.m3u8",
-            {}
+            "http://23.237.104.106:8080/USA_YES_NETWORK/index.m3u8"
         ]
     ],
     "channels": []
