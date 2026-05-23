@@ -14,4 +14,4 @@ jobs:
               uses: actions/checkout@v5
 
             - name: Print Message
-              run: echo "${{ inputs.message }}"
+              run: echo "${{ inputs.message }} AAA"
