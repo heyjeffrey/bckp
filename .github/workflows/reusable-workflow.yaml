@@ -5,6 +5,10 @@ on:
             message:
               required: true
               type: string
+defaults:
+  run:
+    shell: bash        
+    working-directory: ./
 
 jobs:
     build:
