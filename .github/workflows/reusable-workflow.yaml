@@ -1,0 +1,17 @@
+name: Reusable Workflow
+on:
+    workflow_call:
+        inputs:
+            message:
+              required: true
+              type: string
+
+jobs:
+    build:
+        runs-on: ubuntu-latest
+        steps:
+            - name: Checkout repository
+              uses: actions/checkout@v5
+
+            - name: Print Message
+              run: echo "${{ inputs.message }}"
