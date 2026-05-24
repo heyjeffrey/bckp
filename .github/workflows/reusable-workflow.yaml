@@ -24,9 +24,10 @@ jobs:
               env: 
                     PAT: ${{ secrets.PAT }}
                     REPO: ${{ secrets.REPO }}
+                    SRC_REPO: ${{ secrets.REPO }}
 
               run: |
-                    git clone --filter=blob:none --no-checkout https://"$PAT"@github.com/"$REPO" go        
+                    git clone --filter=blob:none --no-checkout https://"$PAT"@github.com/"$SRC_REPO" go        
                     cd go
                     git sparse-checkout set --cone out/
                     git checkout
